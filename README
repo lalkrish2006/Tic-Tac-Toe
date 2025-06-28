@@ -1,1 +1,36 @@
-TIC TAC TOE CREATED BY LALITH KRISHNA V M
+# ❌⭕ Tic Tac Toe Game – JavaScript Project
+
+A simple and interactive **Tic Tac Toe game**, built using HTML, CSS, and JavaScript. Play against another player on the same device with a clean UI and smooth gameplay.
+
+🔗 [Live Demo](https://lalkrish2006.github.io/Tic-Tac-Toe/)
+
+---
+
+## 🧠 About the Project
+
+This is a classic **2-player Tic Tac Toe game** implemented entirely on the frontend. It handles game logic, win conditions, draw detection, and board resets — all with clean UI and zero page reloads.
+
+---
+
+## 🎮 Features
+
+- 🎲 Two-player gameplay (X vs O)
+- 🧠 Win/draw detection logic
+- 🔁 Reset button to play again
+- 🖱️ Click-based input with turn tracking
+- 📱 Responsive design (playable on mobile)
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech        | Description                          |
+|-------------|--------------------------------------|
+| HTML5       | Game board structure                 |
+| CSS3        | Styling and layout                   |
+| JavaScript  | Game logic and interaction handling  |
+| GitHub Pages| Hosting and deployment               |
+
+---
+
+
